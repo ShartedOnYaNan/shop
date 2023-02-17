@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Kyryll",
+            "photo_url": "shorturl.at/joxQ3",
+            "balance": 2000 
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "phone",
+            "description": "the newest version of the phone",
+            "price": 300,
+            "author_id": 1,
+            "photo_url": "https://rb.gy/ql7q6j"
+
+        }
+    ]
+}
